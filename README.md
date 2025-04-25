@@ -18,5 +18,5 @@ JavaScript · TypeScript · Node.js · React · Go · Python · MongoDB · Postg
 - Build tools that genuinely help people and that i enjoy
 
 ### 📫 Let's connect!
-[LinkedIn](https://www.linkedin.com/in/luciano-balladares/) • [Portfolio](https://portfolio-mrcrownfts-projects.vercel.app/) • Email: your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/luciano-balladares/) • [Portfolio](https://portfolio-mrcrownfts-projects.vercel.app/) • Email: mrcrownft@gmail.com
 

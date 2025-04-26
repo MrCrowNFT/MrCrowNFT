@@ -9,7 +9,7 @@ I'm a self-taught full-stack developer from Chile, passionate about building mea
 
 ### 🛠 Tech I like using
 ```txt
-JavaScript · TypeScript · Node.js · React · Go · Python · MongoDB · PostgreSQL · TailwindCSS · Django · Express · Vite · JWT
+JavaScript · TypeScript · Node.js · React · Go · Python · MongoDB · PostgreSQL · TailwindCSS · Django · Express · JWT
 ```
 
 ### 🚀 Goals
